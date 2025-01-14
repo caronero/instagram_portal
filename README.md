@@ -44,8 +44,6 @@
 └──────────────────────┘
 ```
 
-</div>
-
 ## 🌟 System Overview
 ```
 ┌─────────────────┐      ┌──────────────┐      ┌──────────────┐
@@ -137,7 +135,7 @@ An advanced ESP8266-based system that creates a WiFi access point with a captive
 ## 🚀 Quick Start
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/instagram_portal.git
+   git clone https://github.com/caronero/instagram_portal.git
    ```
 2. Open `instagram_portal.ino` in Arduino IDE
 3. Configure your settings in the code:
